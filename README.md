@@ -35,8 +35,11 @@ Advanced > Intel Trust Technology > Disabled
 Advanced > Dash Configuration > RealManage > Disabled
 
 Power > APM Configuration > Power ON PCIE PME > Disabled
+
 Power > APM Configuration > Power ON RTC Alarm > Disabled
+
 Power > APM Configuration > Wake on Keyboard USB > Enabled
+
 Power > APM Configuration > Power on Keyboard USB > Disabled
 
 Security > Secure Boot > Disabled
