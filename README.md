@@ -12,18 +12,25 @@ E demais periféricos.
 Configuração Bios
 
 Advanced > CPU Config > Virtualization Tech > Disabled
+
 Advanced > CPU Config > VT-d > Disabled
+
 Advanced > CPU Config > Speedster > Enabled
+
 Advanced > CPU Config > AES > Enabled
 
 
 Advanced > Onboard Devices > VGA > Framebuffer > 64mb
+
 Advanced > Onboard Devices > VGA > DVMT > MAX
+
 Advanced > Onboard Devices > VGA > HDMI > Enabled
 
 Advanced > Onboard Devices > Audio Controller > Enabled
 Advanced > Onboard Devices > LAN > Enabled
+
 Advanced > Onboard Devices > Network Stack > Disabled
+
 Advanced > Onboard Devices > WIFI > Enabled
 
 Advanced > Trusted Computing > TPM Support > Disabled
@@ -45,4 +52,5 @@ Power > APM Configuration > Power on Keyboard USB > Disabled
 Security > Secure Boot > Disabled
 
 Boot > Launch CSM > Disabled
+
 Boot > Boot Settings > Fast Boot > Disabled
